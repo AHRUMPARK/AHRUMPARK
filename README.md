@@ -1,5 +1,4 @@
 
-<body>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15485F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+arumPark%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
     <section>
     <h3>📢Introduce</h3>
@@ -48,8 +47,6 @@
 
 
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)
-    
-    
-    </body>
+
 
     
