@@ -46,8 +46,8 @@
     </section>
 
 
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arum4523@naver.com&show_icons=true&theme=vue)
+<!--     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arum4523@naver.com&show_icons=true&theme=vue)
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue) -->
 </doby>
     
