@@ -47,10 +47,7 @@
     </section>
 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)
-    <section>
 
-       
-    </section>
     
     
     <!--
