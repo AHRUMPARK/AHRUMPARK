@@ -29,18 +29,18 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-            <br/>
+            <br>
           <p>Collaboration Tools</p>
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
-            <br/>
+            <br>
           <p>Development Tools</p>
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
           <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-            <br/>
+            <br>
           <p>Etc</p>
           <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
