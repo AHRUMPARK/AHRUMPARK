@@ -64,7 +64,6 @@
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...
     -->
-    
     </body>
-    </html>
+
     
