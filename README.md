@@ -5,12 +5,10 @@
     <strong>긍정의 힘으로 유익한 서비스를 만들고 싶은 개발자입니다.</strong>
   </h4>
   <p>📧 Email  : arum4523@naver.com</p>
-  <p>📚 Tistory Blog : https://codingnewbie.tistory.com/</p>
-  <p>📗 Notion : https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4</p>
   <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a><p>
   <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a><p>
 
-
+<h3>🛠Skill</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
