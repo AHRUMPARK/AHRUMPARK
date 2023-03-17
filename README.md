@@ -47,6 +47,6 @@
 
 
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)
-
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </doby>
     
