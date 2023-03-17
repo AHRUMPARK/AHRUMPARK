@@ -1,44 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>my profile</title>
-    <style>
-        section {
-            margin: 100px;
-        }
-        .main_img{
-            display: flex;
-        }
-        .main_img img{
-            width: 200px;
-            height: 200px;
-            border-radius: 100px;
-            margin-right: 50px;
-            object-fit: cover;
-        }
 
-    </style>
-</head>
-
-<body>
-    
+<body>   
 <section>
 <h3>📢Introduce</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15485F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+arumPark%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
-  <div class="main_img">
-    
-    <img src="./01-3.jpg" alt="썸네일"/>
-    
     <div>
         <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
         <p>📧 Email  : arum4523@naver.com</p>
         <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a><p>
         <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a><p>
     </div>
-  </div>
 </section>
 
 <section>
