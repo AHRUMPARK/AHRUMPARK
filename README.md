@@ -17,6 +17,8 @@
         <div>
             <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=appveyor&logoColor=white"/>
+<!-- ?style=for-the-badge&logo=appveyor -->
 
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
