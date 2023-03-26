@@ -14,11 +14,7 @@
 
      <h3>🔧Skill</h3>
     
-       <section>
-           
-        <div>
-            
-            <p>
+
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=appveyor&logoColor=white"/>
 <!-- ?style=for-the-badge&logo=appveyor -->
@@ -30,7 +26,7 @@
           <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
           <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-</p>
+
             
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
