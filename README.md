@@ -18,7 +18,7 @@
 <div>
          
 <span>
-<p>Front-end</p>  
+<!-- <p>Front-end</p>   -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,7 +34,7 @@
 <br>
            
 <span>
-<p>Back-end</p>  
+<!-- <p>Back-end</p>   -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
@@ -45,7 +45,7 @@
     
     
 <br>
-<p>Collaboration Tools</p>             
+<!-- <p>Collaboration Tools</p>              -->
 <span>         
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
@@ -56,7 +56,7 @@
     
     
 <br>
-<p>Development Tools</p>             
+<!-- <p>Development Tools</p>              -->
 <span>  
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
@@ -64,7 +64,7 @@
     
     
 <br>
-<p>Etc</p>
+<!-- <p>Etc</p> -->
 <span>         
    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" />
