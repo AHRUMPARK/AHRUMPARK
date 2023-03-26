@@ -13,9 +13,10 @@
     <br />
       
  
-    <h3> 🔧Skill </h3>
-        <hr />
-        <div>
+<h3> 🔧Skill </h3>
+<hr />
+<div>
+<p>Front-end</p>           
 <span>
   <img src="https://img.shields.io/badge/Swift-F05138?style?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </span>
+            
 <span>            
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
