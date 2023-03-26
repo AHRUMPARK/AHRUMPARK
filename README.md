@@ -14,12 +14,11 @@
       
     
 
-    <br />
-     <h3> 🔧Skill </h3>
+     
         
         <hr />
         <div>
-
+<p>Front-end</p>
                 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 
 
