@@ -87,3 +87,4 @@
 
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer) -->
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=👋%20봐주셔서%20감사합니다^^&fontSize=50)
