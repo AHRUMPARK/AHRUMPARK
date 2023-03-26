@@ -10,10 +10,10 @@
             <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a><p>
         </div>
     </section>
-    <br>
+    <br />
       
     
-    
+
     ## 🔧Skill 
     
 
