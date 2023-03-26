@@ -15,6 +15,17 @@
     ## 🔧Skill 
     
     <section>
+            <section>
+        <h3> 📢Introduce </h3>
+        <hr/>
+        <div>
+            <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
+            <p>📧 Email  : arum4523@naver.com</p>
+            <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a><p>
+            <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a><p>
+        </div>
+    </section>
+    <br>
      <h3> 🔧Skill </h3>
         
         <hr />
