@@ -5,7 +5,7 @@
 <br/>
    
 
-## 👏 Introduce 
+### 👏 Introduce 
 
 <h5>긍정의 힘과 유익한 서비스를 추구하는 박아름입니다.🤗</h5>
 <p>📧 Email  : arum4523@naver.com</p>
@@ -14,7 +14,7 @@
       
 <br/><br/>
 
-## 🔧Skill 
+### 🔧Skill 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /></div>
 <br/>
@@ -73,14 +73,14 @@
 
 <br/><br/>
 
-## 🐳 공부하고 있는 것
+### 🐳 공부하고 있는 것
 1. TypeScript
 2. Redux
 3. Socket
 4. cs 관련 지식
 <br/>
 
-## 🌱 배우고 싶은 것들
+### 🌱 배우고 싶은 것들
 1. React-Query
 2. Recoil
 3. Nest.js
