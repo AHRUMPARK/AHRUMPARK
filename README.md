@@ -18,7 +18,7 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /></div>
 <br/>
-<span>
+<div>
 <!-- <p>Front-end</p>   -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
        
-</span>
+</div>
 
-<span>
+<div>
 <!-- <p>Back-end</p>   -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
@@ -51,21 +51,21 @@
    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-</span>
+</div>
 
 <!-- <p>Development Tools</p>              -->
-<span>  
+<div>  
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
-</span>
+</div>
 
 <!-- <p>Etc</p> -->
-<span>         
+<div>         
    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=for-the-badge&logo=Adobe Adobe Lightroom&logoColor=white" />
-</span> 
+</div> 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/AHRUMPARK/github-readme-stats)
@@ -85,6 +85,6 @@
 2. Recoil
 3. Nest.js
 
-
+<br/><br/>
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=👋%20봐주셔서%20감사합니다^^&fontSize=30)
