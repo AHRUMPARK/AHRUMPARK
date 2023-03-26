@@ -1,22 +1,16 @@
-<body>
+
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15485F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+arumPark%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
-    <section>
-        <h3> 📢Introduce </h3>
-        <hr/>
-        <div>
-            <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
-            <p>📧 Email  : arum4523@naver.com</p>
-            <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a></p>
-            <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a></p>
-        </div>
-    </section>
-    <br />
+        
+## 📢Introduce
+
+<h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
+<p>📧 Email  : arum4523@naver.com</p>
+<p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a></p>
+<p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a></p>
       
  
-<h3> 🔧Skill </h3>
-<hr />
-<div>
-         
+## 🔧Skill 
+ 
 <span>
 <!-- <p>Front-end</p>   -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,6 +30,7 @@
 <span>
 <!-- <p>Back-end</p>   -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
@@ -46,7 +41,7 @@
 </span>
     
     
-<br>
+
 <!-- <p>Collaboration Tools</p>              -->
 <span>         
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
@@ -57,15 +52,14 @@
 </span>
     
     
-<br>
+
 <!-- <p>Development Tools</p>              -->
 <span>  
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
 </span>
     
-    
-<br>
+
 <!-- <p>Etc</p> -->
 <span>         
    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
@@ -73,9 +67,4 @@
    <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=for-the-badge&logo=Adobe Adobe Lightroom&logoColor=white" />
 </span> 
-    
-    
-</div>
-</section>
-</doby>
-    
+
