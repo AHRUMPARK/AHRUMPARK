@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-## 📢Introduce
+## 👏 Introduce
 
 <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
 <p>📧 Email  : arum4523@naver.com</p>
@@ -74,4 +74,6 @@
    <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=for-the-badge&logo=Adobe Adobe Lightroom&logoColor=white" />
 </span> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
