@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15485F&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%F0%9F%91%8B+arumPark%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Park%10ARUM's%20GitHub&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <br/><br/>
 
