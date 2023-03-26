@@ -12,14 +12,18 @@
     <br>
 
         <h3>🔧Skill</h3>
-    <div>
-          <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+         
+        <section>
+            <div>
+                      <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
           <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
           <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
           <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+            </div>
+
             
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
@@ -45,6 +49,6 @@
           <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=flat&logo=Adobe Adobe Lightroom&logoColor=white" />
 
-</div>
+    </section>
 </doby>
     
