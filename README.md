@@ -12,7 +12,7 @@
     <br>
 
         <h3>🔧Skill</h3>
-                
+    <div>
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
           <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -45,6 +45,6 @@
           <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=flat&logo=Adobe Adobe Lightroom&logoColor=white" />
 
-
+</div>
 </doby>
     
