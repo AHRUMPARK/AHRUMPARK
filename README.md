@@ -13,7 +13,7 @@
     <section>
         <h3>🔧Skill</h3>
         <div>
-          <p>Front-end</p>
+<!--           <p>Front-end</p> -->
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
           <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -22,8 +22,8 @@
           <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
             
-          <br />
-          <p>Back-end</p>
+<!--           <br />
+          <p>Back-end</p> -->
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
           <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white" />
@@ -31,21 +31,21 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
             
-          <br /> 
-          <p>Collaboration Tools</p>
+<!--           <br /> 
+          <p>Collaboration Tools</p> -->
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
            
-          <br />  
-          <p>Development Tools</p>
+<!--           <br />  
+          <p>Development Tools</p> -->
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
           <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
            
-           <br />
-          <p>Etc</p>
+<!--            <br />
+          <p>Etc</p> -->
           <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white" />
@@ -54,8 +54,6 @@
     </section>
 
 
-<!--     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arum4523@naver.com&show_icons=true&theme=vue)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHRUMPARK&show_icons=true&theme=vue) -->
+
 </doby>
     
