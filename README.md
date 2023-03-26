@@ -12,9 +12,11 @@
     </section>
     <br>
       
+    ## 🔧Skill 
+    
     <section>
      <h3> 🔧Skill </h3>
-        ## 🔧Skill 
+        
         <hr />
         <div>
 
