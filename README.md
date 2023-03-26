@@ -2,12 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=👋%20PARK%20ARUM's%20GitHub&fontSize=50)
 
-
-<br/><br/>
+<br/>
    
 
 ## 👏 Introduce 
-
 
 <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
 <p>📧 Email  : arum4523@naver.com</p>
@@ -78,6 +76,7 @@
 2. Redux
 3. Socket
 4. cs 관련 지식
+<br/>
 
 ## 🌱 배우고 싶은 것들
 1. React-Query
