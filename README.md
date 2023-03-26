@@ -7,7 +7,7 @@
 
 ## 👏 Introduce 
 
-<h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
+<h5>긍정의 힘과 유익한 서비스를 추구하는 박아름입니다.🤗</h5>
 <p>📧 Email  : arum4523@naver.com</p>
 <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a></p>
 <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a></p>
@@ -69,7 +69,7 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/AHRUMPARK/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK)](https://github.com/AHRUMPARK/github-readme-stats)
+
 
 <br/><br/>
 
