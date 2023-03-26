@@ -11,12 +11,14 @@
         </div>
     </section>
     <br>
-
+      
+    <section>
      <h3>🔧Skill</h3>
-    
+        <hr />
+        <div>
 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=appveyor&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 <!-- ?style=for-the-badge&logo=appveyor -->
 
           <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -51,6 +53,7 @@
           <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white" />
           <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=flat&logo=Adobe Adobe Lightroom&logoColor=white" />
+            
             </div>
     </section>
 </doby>
