@@ -5,9 +5,9 @@
 
 <br/><br/>
    
-<div> 
-      ## 👏 Introduce 
-</div>
+
+## 👏 Introduce 
+
 
 <h4>긍정의 힘과 유익한 서비스를 추구하는 개발자</h4>
 <p>📧 Email  : arum4523@naver.com</p>
@@ -19,7 +19,7 @@
 ## 🔧Skill 
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /></div>
-
+<br/>
 <span>
 <!-- <p>Front-end</p>   -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,10 +32,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
        
 </span>
-    
-    
-<br>
-           
+
 <span>
 <!-- <p>Back-end</p>   -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -48,8 +45,6 @@
   <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=Socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white" />
 </span>
-    
-    
 
 <!-- <p>Collaboration Tools</p>              -->
 <span>         
@@ -59,15 +54,12 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </span>
-    
-    
 
 <!-- <p>Development Tools</p>              -->
 <span>  
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
 </span>
-    
 
 <!-- <p>Etc</p> -->
 <span>         
@@ -76,10 +68,21 @@
    <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white" />
    <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=for-the-badge&logo=Adobe Adobe Lightroom&logoColor=white" />
 </span> 
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/AHRUMPARK/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK)](https://github.com/AHRUMPARK/github-readme-stats)
+<br/><br/>
 
+## 🐳 공부하고 있는 것
+1. TypeScript
+2. Redux
+3. Socket
+4. cs 관련 지식
+
+## 🌱 배우고 싶은 것들
+1. React-Query
+2. Recoil
+3. Nest.js
 
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer) -->
