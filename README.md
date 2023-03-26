@@ -1,4 +1,4 @@
-
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=👋%20PARK%20ARUM's%20GitHub&fontSize=50)
 
@@ -7,7 +7,7 @@
 
 ### 👏 Introduce 
 
-<h5>긍정의 힘과 유익한 서비스를 추구하는 박아름입니다.🤗</h5>
+<h5>긍정의 힘과 유익한 서비스를 추구하는 박아름입니다. 🤗</h5>
 <p>📧 Email  : arum4523@naver.com</p>
 <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a></p>
 <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a></p>
@@ -88,3 +88,5 @@
 <br/><br/>
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=👋%20봐주셔서%20감사합니다^^&fontSize=30)
+
+</div>
