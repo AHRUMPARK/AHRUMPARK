@@ -74,16 +74,16 @@
 <br/><br/>
 
 ### 🐳 공부하고 있는 것
--유데미 TypeScript 강의 듣는 중
--Redux
--Socket
--cs 관련 지식
+   <li>TypeScript 강의 듣는 중</li>
+   <li>Redux</li>
+   <li>Socket</li>
+   <li>cs 관련 지식</li>
 <br/>
 
 ### 🌱 배우고 싶은 것들
--React-Query
--Recoil
--Nest.js
+   <li>React-Query</li>
+   <li>Recoil</li>
+   <li>Nest.js</li>
 <br/>
    
 
