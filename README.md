@@ -22,6 +22,7 @@
           <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
             
+            
           <p>Back-end</p>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
@@ -30,6 +31,7 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
             
+            
           <p>Collaboration Tools</p>
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -37,6 +39,7 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
            
+            
           <p>Development Tools</p>
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
           <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
