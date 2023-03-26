@@ -8,6 +8,7 @@
 ### 👏 Introduce 
 
 <h5>안녕하세요! 긍정의 힘으로 유익한 서비스를 추구하는 웹 개발자 박아름입니다. 🤗</h5>
+<p>공부한 것을 항상 Tistory 정리해두고 있고, 포트폴리오는 Notion 에 정리했습니다.</p>
 <p>📧 Email  : arum4523@naver.com</p>
 <p>📚 Tistory Blog : <a href="https://codingnewbie.tistory.com/" target="_blank">my Tistory Blog</a></p>
 <p>📗 Notion : <a href="https://www.notion.so/99b8842aa02346ada265218310d30df3?pvs=4" target="_blank">my Notion</a></p>
