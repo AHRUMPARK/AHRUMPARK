@@ -74,22 +74,22 @@
 <br/><br/>
 
 ### 🐳 공부하고 있는 것
-유데미 TypeScript 강의 듣는 중
-Redux
-Socket
-cs 관련 지식
+-유데미 TypeScript 강의 듣는 중
+-Redux
+-Socket
+-cs 관련 지식
 <br/>
 
 ### 🌱 배우고 싶은 것들
-React-Query
-Recoil
-Nest.js
+-React-Query
+-Recoil
+-Nest.js
 <br/>
    
 
 
 <br/><br/>
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=👋^^&fontSize=30)
-
+![Footer](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=100&section=header&text=👋^^&fontSize=30)
+👋^^
 </div>
