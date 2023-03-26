@@ -75,5 +75,6 @@
    <img src="https://img.shields.io/badge/Adobe Adobe Lightroom-31A8FF?style=for-the-badge&logo=Adobe Adobe Lightroom&logoColor=white" />
 </span> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK&layout=compact)](https://github.com/AHRUMPARK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHRUMPARK)](https://github.com/AHRUMPARK/github-readme-stats)
 
