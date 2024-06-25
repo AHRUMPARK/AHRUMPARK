@@ -83,7 +83,7 @@
 
 <br/><br/>
 
-### 🐳 공부하고 있는 것
+<!-- ### 🐳 공부하고 있는 것
    <li>TypeScript 강의 듣는 중</li>
    <li>Redux</li>
    <li>Socket</li>
@@ -94,7 +94,7 @@
    <li>React-Query</li>
    <li>Recoil</li>
    <li>Nest.js</li>
-<br/>
+<br/> -->
    
 
 
